@@ -48,7 +48,7 @@ export default function Page() {
 
       <div className="mt-12 flex justify-center">
         <div className="text-lg">
-          Find my hackathon projects on{" "}
+          Check out my hackathon projects on{" "}
           <Link
             className="text-green-400 underline"
             href="https://devpost.com/andrew-wang0"
