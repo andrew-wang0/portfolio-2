@@ -38,7 +38,7 @@ const panels: PanelListItemProps[] = [
     dates: "June 2024 — September 2024",
     title: "Naval Postgraduate School",
     description: "Data analysis on maritime missile raid scenarios",
-    href: "https://archive-beta.ics.uci.edu/",
+    href: "https://nps.edu/",
   },
   {
     imageRef: "/panels/ase.png",
