@@ -6,6 +6,14 @@ import { PanelListItem } from "@/components/list/panel-list-item";
 
 const panels: PanelListItemProps[] = [
   {
+    imageRef: "/panels/scale.png",
+    dates: "2026 — Present",
+    type: "Full-time",
+    title: "Scale",
+    description: "Public Sector",
+    href: "https://scale.com/",
+  },
+  {
     imageRef: "/panels/spacex2.png",
     dates: "2026",
     type: "Internship",
