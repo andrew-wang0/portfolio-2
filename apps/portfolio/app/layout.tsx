@@ -45,7 +45,6 @@ export default function RootLayout({
             >
               <div className="space-y-1 text-lg text-pretty">
                 <p>Software engineer passionate about building things that work.</p>
-                <p>Currently studying computer science at UC Irvine.</p>
               </div>
 
               <NavTabs tabs={tabs} />
